@@ -46,11 +46,11 @@ const srw = {
 
 **Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,dotnet&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,nextjs,tailwind,nodejs,fastapi,express,dotnet&theme=dark" />
 
 **Database, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,vscode,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vscode,windows&theme=dark" />
 
 </div>
 
